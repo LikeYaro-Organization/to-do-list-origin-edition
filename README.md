@@ -46,3 +46,8 @@ pnpm build
 ```sh
 pnpm lint
 ```
+# Наш проект
+
+Участники:
+- kochetov yaroslav: Разработчик, отвечает за vse.
+- berezan roman: tolko meshaetsa.
